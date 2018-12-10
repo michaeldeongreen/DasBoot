@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import com.boot.dasboot.model.Shipwreck;
-import org.springframework.web.bind.annotation.RequestParam;
-
 
 @RestController
 @RequestMapping("api/v1/")
